@@ -1,4 +1,4 @@
-# Tempora.io Sample App - Ecom Order System
+# Temporal.io Sample App - Ecom Order System
 
 ## About
 
